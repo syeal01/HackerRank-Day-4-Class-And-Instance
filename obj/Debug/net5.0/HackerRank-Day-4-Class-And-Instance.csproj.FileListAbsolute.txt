@@ -1,0 +1,16 @@
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\bin\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.exe
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\bin\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.deps.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\bin\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.runtimeconfig.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\bin\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.runtimeconfig.dev.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\bin\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\bin\Debug\net5.0\ref\HackerRank-Day-4-Class-And-Instance.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\bin\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.csproj.AssemblyReference.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.AssemblyInfoInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.AssemblyInfo.cs
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.csproj.CoreCompileInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\ref\HackerRank-Day-4-Class-And-Instance.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Day-4-Class-And-Instance\obj\Debug\net5.0\HackerRank-Day-4-Class-And-Instance.genruntimeconfig.cache

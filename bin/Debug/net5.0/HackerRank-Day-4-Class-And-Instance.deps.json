@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HackerRank-Day-4-Class-And-Instance/1.0.0": {
+        "runtime": {
+          "HackerRank-Day-4-Class-And-Instance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HackerRank-Day-4-Class-And-Instance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
